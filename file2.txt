@@ -2,3 +2,4 @@ Good bye!
 Some other line.
 456
 line from user2
+another line from user2
